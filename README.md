@@ -16,14 +16,15 @@
 <br>
 <img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/kafka-black.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="Apache Kafka"/>
-<img src="https://img.shields.io/badge/docker-blue.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/redis-white.svg?&style=for-the-badge&logo=redis&logoColor=red" alt="Redis"/>
+<img src="https://img.shields.io/badge/docker-blue.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
 <br>
 <img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/pandas-white.svg?&style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas"/>
 <br>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/express-red.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
