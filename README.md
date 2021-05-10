@@ -17,7 +17,6 @@
 <h2>General Skills</h2>
 <img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/kafka-black.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="Apache Kafka"/>
-<img src="https://img.shields.io/badge/redis-white.svg?&style=for-the-badge&logo=redis&logoColor=red" alt="Redis"/>
 <img src="https://img.shields.io/badge/docker-blue.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 <br>
@@ -40,6 +39,7 @@
 <h3>DataBase and DevOps Skills</h3>
 <img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/redis-white.svg?&style=for-the-badge&logo=redis&logoColor=red" alt="Redis"/>
 
 
 
