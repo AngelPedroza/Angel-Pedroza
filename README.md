@@ -121,31 +121,42 @@ me.say_hi()
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 </details>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelPedroza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPedroza&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelPedroza&theme=tokyonight&column=5" />
-</div>
-
-## 🤝 Let's Connect!
+## 📊 GitHub Analytics & Achievements
 
 <div align="center">
 
-If you find my work interesting, let's connect and chat! Follow me on my social networks above.
+### 🏆 GitHub Profile Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/AngelPedroza?style=social)](https://github.com/AngelPedroza)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AngelPe67860063?style=social)](https://twitter.com/AngelPe67860063)
+<table>
+<tr>
+<td width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelPedroza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</td>
+<td width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPedroza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
+</td>
+</tr>
+</table>
 
-<img src="https://komarev.com/ghpvc/?username=AngelPedroza&color=blue&style=flat-square" alt="Profile views" />
+### 🏅 Achievement Badges
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌈_Rainbow_Lang_User-16pt-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐_Hyper_Repo_Creator-3pt-9cf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👨‍💻_Experienced_Dev-15pt-blue?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/📈_Middle_Committer-33pt-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Many_Friends-12pt-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔄_Middle_Puller-17pt-yellow?style=for-the-badge" />
+</div>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelPedroza&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
   <b>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House 🌟</b>
